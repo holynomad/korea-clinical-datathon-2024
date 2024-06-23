@@ -113,3 +113,18 @@ else:
 
 # Free up memory by deleting the original DataFrame
 del final_df
+
+
+#################
+
+Index(['LABEVENT_ID', 'SUBJECT_ID', 'HADM_ID', 'SPECIMEN_ID', 'ITEMID',
+       'CHARTTIME', 'STORETIME', 'VALUE', 'VALUENUM', 'VALUEUOM',
+       'REF_RANGE_LOWER', 'REF_RANGE_UPPER', 'FLAG', 'COMMENTS', 'STAY_ID',
+       'HOSPITAL_ID'],
+      dtype='object')
+ITEMID
+001L3092      18799
+010L8000A      4358
+010L3007       2111
+00201L3095       15
+Name: count, dtype: int64
