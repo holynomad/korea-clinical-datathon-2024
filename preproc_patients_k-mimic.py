@@ -60,9 +60,9 @@ print(f"Count of patients: {pats_count}")
 ############ 
 
     SUBJECT_ID SEX ANCHOR_AGE  ANCHOR_YEAR ANCHOR_YEAR_GROUP  DOD HOSPITAL_ID
-0  10900028075   F   73 years         2355         2022-2024  NaN         001
-1  10900023253   M   61 years         2458         2021-2023  NaN         001
-2  10900007563   M   64 years         2432         2022-2024  NaN         001
-3  10900011021   M   54 years         2613         2021-2023  NaN         001
-4  10900039519   M   83 years         2091         2021-2023  NaN         001
+0  ******28075   F   73 years         2355         2022-2024  NaN         001
+1  ******23253   M   61 years         2458         2021-2023  NaN         001
+2  ******07563   M   64 years         2432         2022-2024  NaN         001
+3  ******11021   M   54 years         2613         2021-2023  NaN         001
+4  ******39519   M   83 years         2091         2021-2023  NaN         001
 Count of patients: 3223
