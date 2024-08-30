@@ -1,5 +1,13 @@
 # clinical-datathon-2024
-korea clinical datathon 2024 (f. preproc. eng'r w/ gpt-4o & python) from Jun 21, 2024 to Jun 23, 2024
+Korea clinical datathon 2024 (f. data eng'r w/ gpt & python) from Jun 21, 2024 to Jun 23, 2024
+
+## 데이터셋
+- MIMIC-IV
+- K-MIMIC
+
+## 엔지니어링 스택
+- Python
+- ChatGPT (?)
 
 ## 레퍼런스
 
